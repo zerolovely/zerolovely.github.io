@@ -1,0 +1,15 @@
+User-agent: *
+
+Allow: /
+Allow: /detail/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /page/
+Allow: /css/
+Allow: /js/
+Allow: /lib/
+Disallow: /CNAME
+Disallow: /images/
+
+Sitemap: https://www.yong.eu.org/sitemap.xml
